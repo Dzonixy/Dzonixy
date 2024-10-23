@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Blockchain & Full-Stack Developer
 
-<!--
-**Dzonixy/Dzonixy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m currently working at **Render Network Foundation**, focusing on decentralized solutions and Web3 infrastructure. I enjoy building impactful projects in the blockchain space.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Blockchain & Web3
+- ⚡ **Solana** program development
+- 🔷 **Ethereum** smart contract development
+- 🌊 **Aptos** smart contract development
+- 💎 **TON** contract development
+- ⚙️ **Gear Protocol** development on Polkadot
+- 🦀 **Rust** for blockchain development
+
+### Full-Stack
+- 🦀 **Rust** | Backend and blockchain development
+- 💻 **TypeScript** | Backend and blockchain development
+- 🏗️ **Node.js** | Backend development
+- 🎯 **Nest.js** | API development
+- ⚛️ **Next.js** | Frontend/Backend development
+
+## 🌐 Experience
+- 🎯 Smart contract development across multiple blockchains
+- 🏗️ Full-stack dApp development
+- 🔐 Blockchain security and auditing
+- 🚀 Building scalable Web3 infrastructure
