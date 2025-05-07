@@ -1,26 +1,29 @@
 # 👨‍💻 Blockchain & Full-Stack Developer
 
-Hi! I’m currently working at **Render Network Foundation**, focusing on decentralized solutions and Web3 infrastructure. I enjoy building impactful projects in the blockchain space.
+Hi! I'm Nikola - a blockchain developer passionate about building decentralized infrastructure and Web3 solutions. I specialize in cross-chain smart contract development and high-performance backend systems, with production experience across multiple blockchain ecosystems.
 
-## 🔧 Tech Stack
+## 🛠️ Technical Proficiency
 
-### Blockchain & Web3
-- ⚡ **Solana** program development
-- 🔷 **Ethereum** smart contract development
-- 🌊 **Aptos** smart contract development
-- 💎 **TON** contract development
-- ⚙️ **Gear Protocol** development on Polkadot
-- 🦀 **Rust** for blockchain development
+### Blockchain & Web3 Development
+| **Platforms**       | **Languages & Tools**            |
+|----------------------|-----------------------------------|
+| ⚡ Solana            | 🦀 Rust, 📜 Anchor, 🐹 Go       |
+| 🌊 Aptos            | 📘 Move, 🧪 CLI Toolkit          |
+| 💎 TON              | 📝 FunC, 🧰 Tact               |
+| ⚙️ Gear Protocol    | 🦀 Rust, 📦 Substrate           |
+| 🔷 EVM Chains       | 🌑 Solidity, 🐹 Go, 🛠️ Foundry |
 
-### Full-Stack
-- 🦀 **Rust** | Backend and blockchain development
-- 💻 **TypeScript** | Backend and blockchain development
-- 🏗️ **Node.js** | Backend development
-- 🎯 **Nest.js** | API development
-- ⚛️ **Next.js** | Frontend/Backend development
+### Full-Stack Development
+| **Backend**               | **Frontend**        | **Tools**            |
+|---------------------------|---------------------|----------------------|
+| 🦀 Rust (Actix, Axum)     | ⚛️ Next.js          | 🐳 Docker            |
+| 💻 TypeScript (Nest.js)   | 🎨 React            | 🏹 GraphQL           |
+| 🐹 Go (Fiber, Gin)        | 📱 Responsive UI    | 🗃️ PostgreSQL        |
+| 🚀 Node.js                |                     |                      |
 
-## 🌐 Experience
-- 🎯 Smart contract development across multiple blockchains
-- 🏗️ Full-stack dApp development
-- 🔐 Blockchain security and auditing
-- 🚀 Building scalable Web3 infrastructure
+## 🔍 Core Expertise
+- ✅ Multi-chain smart contract architecture
+- 🏗️ End-to-end dApp development (contracts → UI)
+- 🔒 Security-first development practices
+- ⚡ High-throughput blockchain systems
+- 🔄 Distributed backend services in Rust/Go
